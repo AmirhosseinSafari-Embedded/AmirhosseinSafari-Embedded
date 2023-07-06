@@ -5,10 +5,10 @@
 -   Master's degree in Control Engineering
 -   Bachelor's degree in Electrical Engineering
 
-### 🔭 What i am currently working on
+### 🔭 What I am currently working on
 
--  Embedded application developement for ECUs of automative systems
--  Initiating low level device drivers for DSPs 
+-  Embedded application development for ECUs of automotive systems
+-  Initiating low-level device drivers for DSPs 
 
 ### 🔨 Languages and Tools:
 
@@ -25,7 +25,7 @@
 <br>
 
 ### 🌱 I’m currently learning:
--   Embedded linux
+-   Embedded Linux
 -   C++
 
 ### 📫 How to reach me:
